@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<antlib>
+	<taskdef name="git" classname="com.m2mci.gitant.GitTask" />
+</antlib>
